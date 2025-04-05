@@ -49,7 +49,7 @@ To deploy this project run to install the required libraries:
 ```
 
 ```bash
-  pip install peft bandit pylint semgrep
+  pip install peft bandit pylint
 
 ```
 
