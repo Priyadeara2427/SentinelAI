@@ -13,8 +13,11 @@ This AI-powered tool brings security to your fingertips — fast, accurate, and 
 🔍 Real-Time Vulnerability Detection
 Scans Python, JavaScript, and C/C++ code for issues like SQL injection, XSS, command injection, and buffer overflows using regex-based rules.
 
+🧠 Static Analysis - Python tools
+Python Tools used to detect and create vulnerability report - Bandit, Pilint
+
 🧠 AI-Powered Security Insights
-Uses Groq's high-speed LLMs (e.g., DeepSeek) to analyze code contextually and suggest secure coding practices.
+Uses Groq's high-speed LLMs (e.g., CodeLama) to analyze code contextually and suggest secure coding practices.
 
 🛡️ Secure Coding Recommendations
 Each vulnerability includes severity levels (Low, Medium, High) and actionable remediation tips.
@@ -22,14 +25,9 @@ Each vulnerability includes severity levels (Low, Medium, High) and actionable r
 ✍️ Integrated Code Editor
 Built-in Streamlit editor for instant analysis of pasted or written code — no setup or login required.
 
-📡 Groq API Integration
-Fast, cost-effective AI response generation with support for streaming and low-latency inference.
-
 🔧 Extendable Rules Engine
 Easily add or modify regex patterns for new vulnerabilities or additional language support.
 
-📁 Dataset-Ready Architecture
-Designed for future integration with labeled datasets or CodeBERT/LoRA fine-tuning workflows.
 ## Deployment
 
 To deploy this project run to install the required libraries:
