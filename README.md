@@ -133,10 +133,11 @@ To deploy this project run to install the required libraries:
 
 ## 🙌 Contributors
 
-- 👨‍💻 Priya Verma
-- 👩‍💻 Jayavarshini. K.S
-- 👨‍💻 Keerthana. R
+- 👨‍💻 Priya Verma (2nd year)
+- 👩‍💻 Jayavarshini. K.S (2nd year)
+- 👨‍💻 Keerthana. R (2nd year)
 
+College Name: Sri Sivasubramaniya Nadar College of Enginnering , Chennai
 ## 🎉Fun Fact<Don't ever run this>
 
 ![WhatsApp Image 2025-04-05 at 20 41 06_70de873c](https://github.com/user-attachments/assets/15daafb4-db59-48d7-94c8-85b8c7823b56)
