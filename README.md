@@ -114,7 +114,7 @@ Supports secure code analysis across multiple languages:
 - 🌐 Pygments, Guesslang (Language Detection)
 
 
-## Deployment
+## Installation
 
 To deploy this project run to install the required libraries:
 
@@ -122,11 +122,19 @@ To deploy this project run to install the required libraries:
   pip install transformers datasets accelerate torch peft bandit pylint semgrep
 
 ```
-
 - In case it shows an error, try installing them one by one.
+
+## Demo
+
+![WhatsApp Image 2025-04-06 at 09 45 37_787285f4](https://github.com/user-attachments/assets/3329dd66-190f-4b34-ba3f-263de5806b76)
+
 
 ## 🙌 Contributors
 
 - 👨‍💻 Priya Verma
 - 👩‍💻 Jayavarshini. K.S
 - 👨‍💻 Keerthana. R
+
+## 🎉Fun Fact<Don't ever run this>
+
+![WhatsApp Image 2025-04-05 at 20 41 06_70de873c](https://github.com/user-attachments/assets/15daafb4-db59-48d7-94c8-85b8c7823b56)
