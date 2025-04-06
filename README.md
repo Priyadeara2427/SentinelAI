@@ -104,6 +104,8 @@ Supports secure code analysis across multiple languages:
   
 - All results are shown in a clear, user-friendly UI built with Streamlit.
 
+- The user can download the fixed code if they want.
+
 ## 🧰 Tech Stack
 
 - 🐍 Python 3.10+  
