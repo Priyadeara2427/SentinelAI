@@ -25,9 +25,9 @@ This AI-powered tool brings security to your fingertips — fast, accurate, and 
 
   - Scans Python, Java, JavaScript, and C/C++ code for issues like SQL injection, XSS, command injection, and buffer overflows.
 
-🧠 **Static Analysis - Python tools**
+🧠 **Static Analysis - tools**
 
- - Python Tools used to detect and create vulnerability report - Bandit, Pilint.
+ -  Tools used to detect and create vulnerability report - Bandit, Pylint, ESLint, spotbugs, Cppcheck.
 
 🧠 **AI-Powered Security Insights**
  
@@ -110,7 +110,7 @@ Supports secure code analysis across multiple languages:
 - 🎨 Streamlit  
 - 🤖 HuggingFace Transformers  
 - ⚡ Groq API (DeepSeek Model)  
-- 🛠️ Static Tools: Bandit, Pylint, ESLint, SonarQube, etc.  
+- 🛠️ Static Tools: Bandit, Pylint, ESLint etc.  
 - 🌐 Pygments, Guesslang (Language Detection)
 
 
