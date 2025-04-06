@@ -93,6 +93,9 @@ def run_security_analysis(code, language):
     """Run static analysis if Python, else skip."""
     if language == "python":
         return analyze_python_security(code)
+    else:
+        return f"📋 Below is the fixed code and explaination to the vulnerabilites your code has: {language}.", ""
+
 
 # ---- STREAMLIT UI ----
 st.set_page_config(page_title="SentinelAI", page_icon="🛡", layout="wide")
