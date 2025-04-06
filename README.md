@@ -31,7 +31,7 @@ This AI-powered tool brings security to your fingertips — fast, accurate, and 
 
 🧠 **AI-Powered Security Insights**
  
-- Uses Groq's high-speed LLMs (e.g., CodeLama) to analyze code contextually and suggest secure coding practices.
+- Uses Groq's high-speed LLMs to analyze code contextually and suggest secure coding practices.
 
 🛡️ **Secure Coding Recommendations**
 
