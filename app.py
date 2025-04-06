@@ -7,7 +7,7 @@ from streamlit_ace import st_ace
 from groq import Groq
 
 # DeepSeek API Configuration
-API_KEY = "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"
+API_KEY = "#Enter_groq_api_key"
 client = Groq(api_key=API_KEY)
 
 # Supported languages
