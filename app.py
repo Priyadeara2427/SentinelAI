@@ -100,7 +100,7 @@ def run_security_analysis(code, language):
 # ---- STREAMLIT UI ----
 st.set_page_config(page_title="SentinelAI", page_icon="🛡", layout="wide")
 
-st.title("🛡 SentinelAI – Multi-Language Security Analysis")
+st.title("🛡 SentinelAI – The AI Powered Code Guardian")
 st.markdown("### AI-Powered Security Vulnerability Detection & Auto-Fixing")
 
 language = st.selectbox("Select programming language", list(LANGUAGE_TOOLS.keys()))
